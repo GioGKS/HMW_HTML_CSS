@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(131, 0, 183);
+    
+}
+
+.container{
+    height: 600px;
+    width: 500px;
+    background-color:thistle;
+    margin-left: 500px;
+    border-style: double;
+    box-shadow: 2cm red;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/132/925/280/winter-forest-snow-northern-lights-ate-hd-wallpaper-preview.jpg);
+}
+
+h1{
+   text-align: center;
+   color: gray;
+   margin-top: 15px;
+}
+
+
+.fa-house{
+    margin-top: 40px;
+    margin-left: 10px;
+    color: white;
+}
+
+
+.fa-person{
+    margin-top: 35px;
+    margin-left: 10px;
+    color: white;
+}
+
+
+.fa-camera{
+    margin-top: 35px;
+    margin-left: 10px;
+    color: white;
+}
+
+
+.fa-envelope{
+    margin-top: 35px;
+    margin-left: 10px;
+    color: white;
+    
+}
+
+img{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    margin-top: 27%;
+    margin-left: 38%;
+
+}
+
+h4{
+    margin-top: 3%;
+    text-align: center;
+    color: white;
+}
+
+h4:hover{
+    background: #80817f;
+    text-shadow: rgb(0, 0, 0);
+}
+
+.fa-house:hover{
+    background: #2e62e5;
+    box-shadow: rgb(0, 0, 0);
+    
+}
+
+.fa-person:hover{
+    background: #2e62e5;
+    box-shadow: rgb(0, 0, 0);
+    
+}
+
+.fa-camera:hover{
+    background: #2e62e5;
+    box-shadow: rgb(0, 0, 0);
+    
+}
+
+.fa-envelope:hover{
+    background: #2e62e5;
+    box-shadow: rgb(0, 0, 0);
+    
+}
+
+
